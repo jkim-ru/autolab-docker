@@ -1,10 +1,14 @@
 # Autolab + Docker
 
-This repo contains a `docker-compose.yml` file suitable for using with Docker.
-The file expects the `autolab/Autolab` and `autolab/Tango` repositories to be
-cloned into this repo once you deploy it.
+This repo contains a `docker-compose.yml` file suitable for deploying Autolab
+with Docker.
 
-For more information about using Docker to deploy Autolab, see the [Autolab
-wiki][autolab-wiki]
+The setup expects the `autolab/Autolab` and `autolab/Tango` repositories to be
+cloned into this repo eventually. For more information about using Docker to
+deploy Autolab, see the [Autolab wiki][autolab-wiki].
+
+## LICENSE
+
+Apache 2.0 License. See LICENSE.
 
 [autolab-wiki]: https://github.com/autolab/Autolab/wiki
